@@ -1,2 +1,2 @@
-# Ryzhhhh.github.io
+# Ryzhhhh
 Personal portfolio website
